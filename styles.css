@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+body{
+    background-color: thistle;
+}
+
+.container{
+max-width: 550px;
+ width: 100%;
+ margin: 20dvh auto;
+}
+
+.container button{
+
+   width: 90%;
+   margin: 12px auto;
+}
+
+.card{
+    width: auto;
+    min-width: 150px;
+    background-color:plum;
+    padding: 30px 2px;
+    border-radius: 12px;
+}
+
